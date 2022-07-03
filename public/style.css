@@ -1,0 +1,31 @@
+html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100vh;
+      background: #7a3535;
+}
+
+.data {
+      font-family: Poppins;
+      color: rgb(10, 9, 9);
+      font-size: 30px;
+      letter-spacing: 12px;
+      font-weight: 600;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+}
+
+.button {
+      background-color: #1da81d; /* Green */
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      cursor: pointer;
+    }
